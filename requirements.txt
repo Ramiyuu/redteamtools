@@ -1,0 +1,4 @@
+requests
+python-Wappalyzer
+beautifulsoup4
+setuptools
